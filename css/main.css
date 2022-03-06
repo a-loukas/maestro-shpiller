@@ -1,0 +1,172 @@
+@CHARSET "UTF-8";
+
+body {
+	margin: 0px auto -1px auto;
+	padding: 0px;
+	width: 960px;
+	background-color: #770000;
+}
+
+a {
+	text-decoration: none
+}
+
+a img {border: none; }
+
+#mask {
+	position: absolute;
+	left: 0;
+	top: 0;
+	z-index: 9000;
+	background-color: #770000;
+	display: none;
+}
+
+#boxes .window {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 500px;
+	height: 60px;
+	display: none;
+	z-index: 9999;
+	padding: 20px;
+	/*background-color: #770000;*/
+}
+
+#page {
+	position: absolute;
+	width: 960px;
+	/*height: 682px;*/
+	/*margin:-50px 0 0 -50px;
+	top:50%;
+	left:50%;	*/
+}
+
+#etudes_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 193px;
+	height: 118px;
+}
+
+#home-2_ {
+	position: absolute;
+	left: 193px;
+	top: 0px;
+	width: 6px;
+	height: 129px;
+}
+
+#portfolio_ {
+	position: absolute;
+	left: 199px;
+	top: 0px;
+	width: 186px;
+	height: 118px;
+}
+
+#home-4_ {
+	position: absolute;
+	left: 385px;
+	top: 0px;
+	width: 6px;
+	height: 129px;
+}
+
+#book_ {
+	position: absolute;
+	left: 391px;
+	top: 0px;
+	width: 184px;
+	height: 118px;
+}
+
+#home-6_ {
+	position: absolute;
+	left: 575px;
+	top: 0px;
+	width: 6px;
+	height: 129px;
+}
+
+#media_ {
+	position: absolute;
+	left: 581px;
+	top: 0px;
+	width: 191px;
+	height: 118px;
+}
+
+#home-8_ {
+	position: absolute;
+	left: 772px;
+	top: 0px;
+	width: 5px;
+	height: 129px;
+}
+
+#blog_ {
+	position: absolute;
+	left: 777px;
+	top: 0px;
+	width: 180px;
+	height: 118px;
+}
+
+#home-10_ {
+	position: absolute;
+	left: 957px;
+	top: 0px;
+	width: 3px;
+	height: 129px;
+}
+
+#home-11_ {
+	position: absolute;
+	left: 0px;
+	top: 118px;
+	width: 193px;
+	height: 11px;
+}
+
+#home-12_ {
+	position: absolute;
+	left: 199px;
+	top: 118px;
+	width: 186px;
+	height: 11px;
+}
+
+#home-13_ {
+	position: absolute;
+	left: 391px;
+	top: 118px;
+	width: 184px;
+	height: 11px;
+}
+
+#home-14_ {
+	position: absolute;
+	left: 581px;
+	top: 118px;
+	width: 191px;
+	height: 11px;
+}
+
+#home-15_ {
+	position: absolute;
+	left: 777px;
+	top: 118px;
+	width: 180px;
+	height: 11px;
+}
+
+#content {
+	position: absolute;
+	left: 0px;
+	top: 129px;
+	width: 960px;
+}
+
